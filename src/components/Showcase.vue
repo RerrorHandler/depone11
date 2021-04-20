@@ -7,7 +7,7 @@
             </div>
             <div id="line"></div>
         </div>
-        <div class="container mx-auto -ml-" id="showcase">
+        <div class="container mx-auto" id="showcase">
             <Hooper :itemsToShow="3" :autoPlay="true" :playSpeed="5000" :itemsToSlide="1" :infiniteScroll="true" id="slider">
                 <Slide class="px-20">
                     <div class="flex flex-col">
