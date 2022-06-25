@@ -6,6 +6,10 @@
   </div>
 </template>
 
+
+<script>
+<script src="https://cdn.tailwindcss.com"></script>
+</script>
 <style lang="scss">
 * {
   font-family: "GOTHIC";
